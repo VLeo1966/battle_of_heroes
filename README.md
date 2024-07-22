@@ -1,5 +1,5 @@
 # lesson11
- create game using kanban of method
+ Create a game using the Kanban method.
 
 # Battle of Heroes
 
