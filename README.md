@@ -55,3 +55,10 @@ Battle of Heroes is a simple console-based text battle game where the player and
 
 ## Project Structure
 
+|-- hero.py # Contains the Hero class
+
+|-- game.py # Contains the Game class
+
+|-- main.py # The main script to run the game
+
+|-- README.md # This README file
